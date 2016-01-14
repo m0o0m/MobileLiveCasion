@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parmas>
+ 
+	<userlang>ch</userlang>
+	<url name="login">
+ 
+	<a>http://air.tbsbet8.com</a>
+  
+	</url>
+
+
+	<android> 
+		<versionNum>1.0.2</versionNum>
+ 
+		
+		<url name="download">
+   
+			<a>http://air.tbsbet8.com</a>
+   
+		</url>
+	</android>
+	<ios>
+ 		<versionNum>1.2</versionNum>
+ 
+		<url name="download">
+   
+			<a>http://www.baidu.com</a>
+			<a>http://air.tbsbet8.com</a>
+   
+		</url>
+	</ios>
+
+</parmas>
